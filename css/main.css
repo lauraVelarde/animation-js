@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 20px;
+    background-color: #85929E;
+}
+
+h1{
+    font-family: 'Dosis', sans-serif;
+    color: #F048F5;
+    font-size: bolder;
+    font-weight: 600;
+}
+
+strong{
+    background-color: #F048F5;
+}
+
+section{
+    text-align: center;
+}
+.row{
+    display:block;
+}
+
+.col{
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    border: 2px solid #F048F5;
+    margin:  5px;
+}
+
+.purple{
+    background-color: #F048F5;
+}
